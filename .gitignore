@@ -1,0 +1,25 @@
+# Node Modules
+node_modules/
+
+#bower
+bower_components/
+
+# d.ts
+/typings/*
+!/typings/bundle.d.ts
+!/typings/ect
+
+# Sass Cache
+.sass-cache/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Mac crap
+.DS_Store
+
+# Output Files
+*.js
+*.css
+!gulpfile.js
